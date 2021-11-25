@@ -1,0 +1,388 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/efuPybo8V8KTYGslQphO74LRvm0.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 580489,
+    "original_language": "en",
+    "original_title": "Venom: Let There Be Carnage",
+    "overview": "연쇄살인마 클리터스 캐서디(우디 해럴슨)가 사형선고를 받는다. 죽을 생각이 전혀 없는 클리터스는 자신의 집행일을 연기할 목적으로 마지막 증언을 남기겠다며 탐사보도로 유명한 프리랜스 저널리스트 에디를 지목한다. 베놈을 얻는 대신 직장과 연인을 모두 잃고 폐인처럼 생활하던 에디는 클리터스와의 단독 인터뷰를 통해 다시 한번 저널리스트로서 재기할 수 있는 기회를 얻는다. 클리터스가 던져주는 수많은 단서로 인해 미결로 남아 있던 살인사건을 추가로 밝히는 데 성공한 에디는 제일 먼저 앤에게 달려가지만 전편에서 에디의 몸에 베놈이 산다는 것을 알게 된 그녀는 새로운 연인 댄 박사(레이드 스콧)와 결혼을 선언한다. 평정심을 잃은 에디는 클리터스와의 인터뷰 중 실수로 클리터스가 새로운 빌런 카니지로 거듭나는 빌미를 제공하고 마는데...",
+    "popularity": 4523.175,
+    "poster_path": "/1Lh9LER4xRQ3INFFi2dfS2hpRwv.jpg",
+    "release_date": "2021-10-13",
+    "title": "베놈 2: 렛 데어 비 카니지",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 1897
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u5Fp9GBy9W8fqkuGfLBuuoJf57Z.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "id": 370172,
+    "original_language": "en",
+    "original_title": "No Time to Die",
+    "overview": "MI6를 떠난 이후 매들린(레아 세두)과 이탈리아의 오랜 도시 마테라에서 평화로운 일상을 즐기던 제임스 본드(대니엘 크레이그).  어느 날 CIA 요원 펠릭스(제프리 라이트)가 찾아와 선별적 DNA 공격이 가능한 새로운 형태의 생화학 무기 유출을 알린다. 위험에 처한 전 세계를 구하기 위해 복귀하게 된 제임스 본드는 임무를 수행하는 과정에서 새로운 MI6 요원 노미(라샤나 린치)를 만나고, 모든 사건의 배후에 운명으로 얽혀 있는 최악의 적 사핀(라미 말렉)이 존재한다는 것을 알아낸다. 위험천만한 위기 속, 감춰져 있던 비밀이 밝혀지면서 작전은 점점 더 예측할 수 없는 상황으로 치닫게 되는데...",
+    "popularity": 4549.752,
+    "poster_path": "/68ZwnPALUeweaFdT1z75oXJ4Xie.jpg",
+    "release_date": "2021-09-29",
+    "title": "007 노 타임 투 다이",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 1718
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lyvszvJJqqI8aqBJ70XzdCNoK0y.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 524434,
+    "original_language": "en",
+    "original_title": "Eternals",
+    "overview": "수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 \"어벤져스: 엔드게임\" 이후 인류의 가장 오래된 적 '데비안츠'에 맞서기 위해 다시 힘을 합치면서 벌어지는 이야기",
+    "popularity": 2463.115,
+    "poster_path": "/aNtAP8ZzUMdnCPoqYgVOcgI0Eh4.jpg",
+    "release_date": "2021-11-03",
+    "title": "이터널스",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 937
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 438631,
+    "original_language": "en",
+    "original_title": "Dune",
+    "overview": "10191년, 아트레이데스 가문의 후계자인 폴은 시간과 공간을 초월해 과거와 미래를 모두 볼 수 있고, 더 나은 미래를 만들 유일한 구원자인 예지된 자의 운명을 타고났다. 그리고 어떤 계시처럼 매일 꿈에서 아라키스의 행성에 있는 한 여인을 만난다. 귀족들이 지지하는 아트레이데스 가문에 대한 황제의 질투는 폴과 그 일족들을 죽음이 기다리는 아라키스로 이끄는데...",
+    "popularity": 2186.035,
+    "poster_path": "/wv22frLmCpXDRjKj4MWFwa4eTOK.jpg",
+    "release_date": "2021-10-20",
+    "title": "듄",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 3904
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4vCh8R4yd6ybOmbxRAPOzaXmLTV.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 744275,
+    "original_language": "en",
+    "original_title": "After We Fell",
+    "overview": "영국 런던에서 미국 시애틀까지, 핫스팟에서 시작된 사랑의 클라이맥스! 첫사랑, 첫키스, 첫경험, 설렘 가득했던 처음을 뒤로 하고 꿈을 위해 잠시 서로를 떠나게 된 하딘과 테사. 각자 영국 런던과 미국 시애틀에서 롱디 연애를 앞둔 두 사람은 시간과 장소를 가리지 않고 달콤한 사랑을 속삭인다. 하지만 연애와 꿈의 갈림길에 선 둘은 서로에게 감춘 '누군가'의 존재와 예상치 못한 비밀까지 알게 되면서 사랑의 클라이맥스에 치닫게 되는데…",
+    "popularity": 2318.818,
+    "poster_path": "/o0PgoBD6jLYId3LYpu9yUY06SLT.jpg",
+    "release_date": "2021-10-13",
+    "title": "애프터: 관계의 함정",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 833
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 639721,
+    "original_language": "en",
+    "original_title": "The Addams Family 2",
+    "overview": "평범함과는 거리가 먼 호러블리 아담스 패밀리에게 닥친 최대 위기.  아이들은 사춘기에 접어들고, 권태로운 가족 분위기에 위기를 느낀 아빠 ‘고메즈’와 엄마 ‘모티시아’는 가족들의 화합을 위해 나이아가라 폭포에서 그랜드 캐니언까지 미국을 가로지르는 가족 여행을 떠난다. 하지만, 어쩐지 태생부터 남달랐던 ‘웬즈데이’의 놀라운 비밀이 밝혀지면서 ‘웬즈데이’의 사춘기는 절정에 이르고, 아담스 패밀리의 여행은 점점 더 신나고, 점점 더 절망적인 상황으로 치닫는데…",
+    "popularity": 1012.719,
+    "poster_path": "/oF80bdLeRri6PFm0yAT0gRNQoDG.jpg",
+    "release_date": "2021-11-10",
+    "title": "아담스 패밀리 2",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 588
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tDYwYktjFmpj92S2Qn4T3BcRgL.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 610253,
+    "original_language": "en",
+    "original_title": "Halloween Kills",
+    "overview": "할로윈 밤의 살아 있는 공포 ‘마이클 마이어스’로 인해 오래도록 고통받으며 살아온 ‘로리 스트로드’ 그녀는 딸 ‘캐런’, 손녀 ‘앨리슨’과 함께 ‘마이클’을 자신의 집 지하실에 가두고 불을 지르는 데 성공한다. 하지만 모든 것이 끝났음을 실감하기도 잠시, 그가 지하실을 탈출했다는 절망적인 소식을 듣게 되고 이어 ‘마이클’의 살인이 벌어지면서 해든필드 주민들은 또 다시 공포와 혼란에 빠진다. 더 이상의 피해를 막기 위해 ‘로리 스트로드’와 ‘캐런’, ‘앨리슨’은 해든필드 주민들과 그를 사냥하기 위한 추적을 시작하는데… “악마는 오늘 밤 죽는다!”",
+    "popularity": 979.389,
+    "poster_path": "/87R745i8LjYlHLEPoVUswZCFwQb.jpg",
+    "release_date": "2021-10-27",
+    "title": "할로윈 킬즈",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1204
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/axMEROxH94BveBZBfPctWX4qLe4.jpg",
+    "genre_ids": [
+      16,
+      878,
+      10751,
+      35
+    ],
+    "id": 482321,
+    "original_language": "en",
+    "original_title": "Ron's Gone Wrong",
+    "overview": "최첨단 소셜 AI 로봇 비봇이 모든 아이들의 친구가 되는 세상. 비봇을 갖는 것이 유일한 소원인 소심한 소년 바니에게도 드디어 론이라는 비봇이 생겼다. 그러나 첨단 디지털 기능과 소셜 미디어로 연결된 다른 비봇들과는 달리, 네트워크 접속이 불가능한 고장난 론. 자유분방하고 엉뚱한 론으로 인해 벌어지는 엉망진창, 스릴 넘치는 모험을 함께하며 바니는 진실한 우정이 무엇인지 점점 깨닫게 되는데..",
+    "popularity": 242.303,
+    "poster_path": "/o54XbhGUHeqDXr1Ro6GEGbodIuS.jpg",
+    "release_date": "2021-10-27",
+    "title": "고장난 론",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 50
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      53
+    ],
+    "id": 617653,
+    "original_language": "en",
+    "original_title": "The Last Duel",
+    "overview": "부조리한 권력과 야만의 시대, 14세기 프랑스. 유서 깊은 카루주 가의 부인 마르그리트는 남편 장이 집을 비운 사이, 불시에 들이닥친 장의 친구 자크에게 씻을 수 없는 모욕을 당한다. 용서받지 못할 짓을 저지른 자크는 마르그리트에게 침묵을 강요하지만, 마르그리트는 자신이 입을 여는 순간 감내해야 할 불명예를 각오하고 용기를 내어 자크의 죄를 고발한다.",
+    "popularity": 103.15,
+    "poster_path": "/zPDY58lk0YIxr9qsnGV64PEnjkI.jpg",
+    "release_date": "2021-10-20",
+    "title": "라스트 듀얼: 최후의 결투",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 409
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4IeNkuGCiCumz42jj6w5aUuPepI.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 712121,
+    "original_language": "pl",
+    "original_title": "Sweat",
+    "overview": "완벽한 몸매와 아름다운 외모로 모든 이들의 선망의 대상으로 꼽히는 피트니스 SNS 슈퍼스타 실비아. 하지만 24시간 감시 중인 스폰서의 압박, 살인적인 식단 조절, 실시간으로 퍼지는 루머, 누군가 지켜보는 듯한 섬뜩한 시선까지. 화려함에 감춰진 것들이 숨통을 조여오는데…",
+    "popularity": 72.363,
+    "poster_path": "/eWxXrQR61WsAUc2Kz35OfzW9Whj.jpg",
+    "release_date": "2021-10-26",
+    "title": "스웻",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cDVWsqsnGwIUqOSzAuDS0PIhNdW.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10402
+    ],
+    "id": 424277,
+    "original_language": "en",
+    "original_title": "Annette",
+    "overview": "예술을 사랑한 도시 LA, 오페라 가수 '안(마리옹 꼬띠아르)'과  스탠드업 코미디언 '헨리(아담 드라이버)'는 첫눈에 서로에게 이끌린다.  함께 인생을 노래하는 두 사람에게 무대는 계속되지만, 그곳엔 빛과 어둠이 함께한다.",
+    "popularity": 35.08,
+    "poster_path": "/1m1ZGxB1ZWUUPTe4iCJgdpqpzOq.jpg",
+    "release_date": "2021-10-27",
+    "title": "아네트",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 238
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cdMfn0Jr9RGqKkaX9HyR5l1kiYy.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 510298,
+    "original_language": "en",
+    "original_title": "Seberg",
+    "overview": "1960년대 할리우드, 누벨바그를 대표하는 배우이자 패션 아이콘인 진 세버그(크리스틴 스튜어트)는 영화 촬영을 위해 LA로 돌아오는 비행기에서 흑표당의 활동가 하킴 자말(안소니 마키)을 만난다. 인권 운동에 힘써온 진은 당당히 흑표당 지지를 선언하는 한편, 카리스마 넘치는 하킴에게 매력을 느끼고 다가간다. 진은 공개적으로 밝힌 정치적 의사로 인해 FBI의 감시 표적이 되고, FBI 신입요원 잭 솔로몬(잭 오코넬)은 LA 현장 사무소에서 진과 하킴을 24시간 도청한다. 감시 당하고 있다는 걸 깨달은 진은 하루하루 더 불안함에 빠지고, 진의 임신 사실을 알게 된 FBI는 거짓 추문을 퍼뜨리는데...!​",
+    "popularity": 13.807,
+    "poster_path": "/xT4Kste1sIIT1JNobIWooDrMCLv.jpg",
+    "release_date": "2021-11-04",
+    "title": "세버그",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 146
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/owdreZiMcBz9y4ayfyLRddpWYR6.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "id": 558582,
+    "original_language": "en",
+    "original_title": "First Cow",
+    "overview": "19세기 미국 북서부, 사냥꾼 일행을 따라다니는 요리사 쿠키는 어느 날 숲에서 발가벗은 채 숨어있는 중국인 킹 루를 만난다. 사람을 죽이고 쫓기는 신세인 킹 루에게 하룻밤 잘 곳과 입을 옷을 챙겨 준 뒤 우연히 다시 만난 두 사람은 의기투합하게 된다. 마을에 들어온 암소에게서 몰래 우유를 짜내서 케익을 만들어 파는데 맛있다는 소문이 난다.",
+    "popularity": 13.207,
+    "poster_path": "/3nosCmwejfK1q7STjLdSePwBYfS.jpg",
+    "release_date": "2021-11-04",
+    "title": "퍼스트 카우",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 217
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/poLzOfMBc2S4AroQPtzlaPRdEwn.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 763148,
+    "original_language": "en",
+    "original_title": "Time Is Up",
+    "overview": "로마의 별빛과 함께 한 로맨틱한 하룻밤 사랑 상위 1% 모범생 '비비안'은 자신이 곤경에 처할 때마다 도움을 주는 수영부 문제아 '로이'에게 묘한 호감을 느끼지만 이미 '비비안'의 곁에는 수영부 에이스이자 오랜 남자친구 '스티브'가 있다. 서로에 대한 감정을 애써 무시하던 '비비안'과 '로이'는 우연히 이탈리아 로마에서 잊지 못할 로맨틱한 하루를 함께 보내며 거부할 수 없는 끌림을 인정하게 된다. 운명적으로 맞닿은 두 사람의 마음이 이어지려는 순간, 갑작스러운 사고로 '비비안'은 '로이'와 함께 한 그날의 기억을 모두 잃게 되는데…",
+    "popularity": 10.219,
+    "poster_path": "/a22s70wUPBKioC607Kvc9pby19r.jpg",
+    "release_date": "2021-11-11",
+    "title": "타임 이즈 업",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sO1rHbQgxHpwAznH00OxaHnqNUG.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 347111,
+    "original_language": "en",
+    "original_title": "Scorched Earth",
+    "overview": "기후변화가 일으킨 대재앙 '클라우드 폴' 이후, 마실 물도 산소도 없이 황폐화된 미래 지구. 살아남은 소수의 사람들은 처절한 약육강식의 무법지대에서 물과 산소를 얻기 위해 고군분투한다. 한편, 동생을 잃은 후 오직 생존하기 위해 악인을 쫓는 현상금 사냥꾼이 된 '게이지'. 그는 거액의 현상금이 걸린 범죄자를 쫓던 중, 마침내 동생을 죽인 원수와 마주하게 되는데… 복수에 자비와 인내는 필요없다! 리얼 MMA 파이터 지나 카라노의 급이 다른 리벤지 액션이 온다!",
+    "popularity": 12.641,
+    "poster_path": "/3EqgAHkESHZLK4MUHgK9s9882S2.jpg",
+    "release_date": "2021-09-30",
+    "title": "스코치드 어스: 분노의 추격자",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 70
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eMouKWkSQ8Un4k4W7fFeWS0i1OH.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 644089,
+    "original_language": "en",
+    "original_title": "Blue Bayou",
+    "overview": "한국에서 태어나 미국으로 입양돼 안토니오 르블랑이라는 이름을 얻은 한 남자. 그에게는 누구보다 자신을 믿어주는 아내 캐시와 사랑스런 딸 제시, 그리고 곧 태어날 아기가 전부다. 어느 날, 억울한 상황에 휘말려 경찰에 붙잡힌 그는 영문도 모른 채 이민단속국으로 넘겨지고, 시민권이 없다는 사실을 난생처음 알게 된 그는 강제추방 위기에 처하는데…",
+    "popularity": 12.993,
+    "poster_path": "/kmMmFggZ5TkrIQGIuV15ybc2wMT.jpg",
+    "release_date": "2021-10-13",
+    "title": "푸른 호수",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 25
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [],
+    "id": 880676,
+    "original_language": "ko",
+    "original_title": "사이렌",
+    "overview": "소음공해 처리 시설 직원인 오 과장은 막대한 보상금을 요구하던 지역 주민들의 폭언에 시달리다 목숨을 끊는다. 지역 이기주의를 비판하는 여론이 쏟아지는 가운데, 태승이 후임으로 온다. 그는 오로지 승진을 위해 이곳에 왔다. 태승은 곧장 서명을 받으러 다니기 시작한다. 비난 여론을 의식한 주민들이 서명을 해주면서 승진이 코앞인 듯했으나, 서명을 안 하고 버티는 영식과 동규가 그의 앞길을 가로막는다. 그들의 미심쩍은 언행들이 내심 마음에 걸렸던 태승은 어쩌면 두 사람이 오 과장을 살해했을지도 모른다는 의심을 하게 된다.",
+    "popularity": 8.913,
+    "poster_path": "/4A1882xRyjS7HWXDdBAvLS7RABj.jpg",
+    "release_date": "2021-11-12",
+    "title": "사이렌",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Di6BvfSuN0tUBi7PIK4Iz9phxk.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "id": 10523,
+    "original_language": "en",
+    "original_title": "W.",
+    "overview": "술과 여자, 제멋대로 방탕한 삶을 살던 부시. 대통령 아버지에 대한 열등감에 출마한 주지사 선거에 덜컥 당선된다. 내친김에 나선 대통령 선거. 맙소사! 눈 떠보니 이제 미 대통령이다? 911 테러가 일어나고 단단히 기분 잡쳐 ‘악의 축’ 전쟁을 선포하고 전 세계는 전쟁의 소용돌이와 대규모 반전 시위로 발칵 뒤집히는데…",
+    "popularity": 10.348,
+    "poster_path": "/yXDKv4GBKyz7Ukwz8e7iIvcI9ls.jpg",
+    "release_date": "2021-11-11",
+    "title": "더 프레지던트",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 399
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zSNaHraIcjfy3BC0q5JAnTS23Ll.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "id": 752886,
+    "original_language": "ko",
+    "original_title": "강릉",
+    "overview": "강릉 최대 조직의 ‘길석’ 평화와 의리를 중요시하며 질서 있게 살아가던 그의 앞에 강릉 최대 리조트 소유권을 노린 남자 ‘민석’이 나타난다. 첫 만남부터 서늘한 분위기가 감도는 둘, ‘민석’이 자신의 목표를 위해 본격적으로 움직이기 시작하면서 두 조직 사이에는 겉잡을 수 없는 전쟁이 시작되는데.. 거친 운명 앞에 놓인 두 남자 11월, 그들의 이야기가 시작된다",
+    "popularity": 7.005,
+    "poster_path": "/1MZ42GYL84wW4U9HtcKMuTOx6fD.jpg",
+    "release_date": "2021-11-10",
+    "title": "강릉",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qqZrBhoxR9LZYi32K4DTSeWgEy5.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 624789,
+    "original_language": "en",
+    "original_title": "Naked Singularity",
+    "overview": "한방을 노리는 완벽한 계획이 시작된다!  비슷한 일상에 지쳐 있는 국선 변호사 `캐시`.  어느 날, 그의 클라이언트인 `리아`가 찾아와  경매에 나온 수상한 SUV의 이야기를 해준다.  SUV에는 1,500만 달러 어치 마약이 숨겨져 있다는 것.  이에 `카시`는 아무도 모르는 새에 마약을 챙기는 완벽한 계획을 세우는데…",
+    "popularity": 10.821,
+    "poster_path": "/49BVoyV0tOX17DBbqF0v7WD8p1z.jpg",
+    "release_date": "2021-10-28",
+    "title": "퍼펙트 스틸",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 22
+  }
+]
