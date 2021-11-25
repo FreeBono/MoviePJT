@@ -64,7 +64,7 @@
 
 #### 프로젝트 ERD
 
-![ERD](READ ME.assets/ERD.png)
+![ERD](README.assets/ERD.png)
 
 ### 구현 
 
