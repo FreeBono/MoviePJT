@@ -79,7 +79,7 @@ export default {
         fields: ['index','movietitle','title','username','created_at'],
         items: [],
         menuList : [],
-        reviews: [],
+   
         comments: [],
         topRatedMovie : [],
         perPage : 10,
@@ -109,29 +109,33 @@ export default {
     })
     // 응답 받은 모든 리뷰 저장하기
     .then(res => {
-      console.log(res.data)
+      // console.log(res.data)
       this.items = res.data
-      this.reviews = res.data
-      this.reviews.sort(function(a,b){
+      const temp1 = JSON.parse(JSON.stringify(res.data))
+      const temp2 = JSON.parse(JSON.stringify(res.data))
+      // console.log(this.menuList)
+      temp1.sort(function(a,b){
         if (a.like.length > b.like.length){
           return -1
         }
       })
-      this.reviews.forEach(review => {
+
+      temp1.forEach(review => {
         if (this.menuList.length <= 3) {
           this.menuList.push(review)
         }
       })
-      this.reviews.sort(function(a,b){
+      temp2.sort(function(a,b){
         if (a.comments.length > b.comments.length){
           return -1
         }
       })
-      this.reviews.forEach(review => {
+      temp2.forEach(comment => {
         if (this.comments.length <= 3) {
-          this.comments.push(review)
+          this.comments.push(comment)
         }
       })
+
       // console.log(this.comments)
     })
     .catch(err => {
