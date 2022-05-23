@@ -266,3 +266,43 @@ temp = movies_df[['title','vote_average','vote_count','weighted_vote']]
 temp.sort_values('weighted_vote', ascending=False)[:10]
 ```
 
+
+
+## 개발 환경
+
+- Python
+
+  - python
+  - django
+  - sqlite3
+
+- javascript
+
+  - Vue.js
+
+- 사용 라이브러리
+
+  - bootstrap
+  - bootstrap-vue
+  - font-awesome
+  - pandas
+
+- 프로젝트 작동법
+
+  - django → DB파일을 함께 올림
+
+  ```shell
+  $ cd final-pjt-back
+  $ python -m venv venv
+  $ source venv/Script/Activate
+  $ pip install -r requirements.txt
+  $ python manage.py runserver
+  ```
+
+  - vue
+
+  ```shell
+  $ cd final-pjt-front
+  $ npm i
+  $ npm run serve
+  ```
