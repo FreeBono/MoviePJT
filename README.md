@@ -67,6 +67,29 @@
 - Notion
 
 
+<br />
+
+## UI 소개
+
+
+
+### 메인 페이지
+
+![대체 텍스트](./README.assets/main.PNG)
+
+<br />
+<br />
+
+### 유저 디테일 페이지
+
+![대체 텍스트](./README.assets/detail.PNG)
+<br />
+<br />
+### 커뮤니티 페이지
+
+![대체 텍스트](./README.assets/community.PNG)
+<br />
+<br />
 
 ## 영화 추천 알고리즘 관련 코드
 
