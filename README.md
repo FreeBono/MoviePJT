@@ -66,6 +66,7 @@
 - MatterMost
 - Notion
 
+![대체 텍스트](./README.assets/notion.PNG)
 
 <br />
 
